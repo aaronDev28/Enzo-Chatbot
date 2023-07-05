@@ -9,7 +9,7 @@ from hugchat.login import Login
 # login
 sign = Login(st.secrets["email"], st.secrets["pass"])
 cookies = sign.login()
-sign.saveCookies()
+#sign.saveCookies()
 
 st.set_page_config(page_title="Streamlit ChatBot")
 
