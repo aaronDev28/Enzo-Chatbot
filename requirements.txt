@@ -1,4 +1,4 @@
 streamlit
-hugchat
+hugchat==0.2.0
 streamlit-chat
 streamlit-extras
