@@ -34,7 +34,7 @@ with inputContainer:
 # Function to receive user prompt and generate AI responses
 def generate_response(prompt):
     chatbot = hugchat.ChatBot(cookies=cookies.get_dict())
-    res = chatbot.chat(prompt)
+    res = chatbot.query(prompt)
     return res
 
 # Display AI generated responses based on user prompts
