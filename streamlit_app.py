@@ -46,5 +46,5 @@ with respContainer:
         
     if st.session_state['g_response']:
         for i in range(len(st.session_state['g_response'])):
-            message(st.session_state['p_response'][i], is_user=True, key=str(i) + '_user')
-            message(st.session_state["g_response"][i], key=str(i))
+            message(str(st.session_state['p_response'][i]), is_user=True, key=str(i) + '_user')
+            message(str(st.session_state["g_response"][i]), key=str(i))
