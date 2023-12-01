@@ -12,6 +12,7 @@ cookies = sign.login()
 #sign.saveCookies()
 
 st.set_page_config(page_title="Streamlit ChatBot")
+st.title('🤖 EnzoChat Chatbot')
 
 # Initialize empty lists to store AI generated responses and past user inputs
 if 'g_response' not in st.session_state:
