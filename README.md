@@ -6,7 +6,7 @@ EnzoChat is an AI-powered web chatbot that generates responses to the user promp
 
 ## 🖼️ Project Screenshot:
 
-<img src="https://github.com/aaronDev28/Enzo-Chatbot/blob/main/asset_img1.png" alt="project-screenshot" width="600">
+<img src="https://github.com/aaronDev28/Enzo-Chatbot/blob/main/asset_img.png" alt="project-screenshot" width="600">
 
 ## 💻 Built With:
 
