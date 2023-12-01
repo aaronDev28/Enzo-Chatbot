@@ -4,11 +4,10 @@
 
 EnzoChat is an AI-powered web chatbot that generates responses to the user prompts. It utilizes an open-source, freely available language model (LLM) from the HuggingChat API.
 
-## 🖼️ Project Screenshots:
+## 🖼️ Project Screenshot:
 
-[<img src="https://github.com/aaronDev28/Youtube-Transcribe/blob/main/asset_img1.png" alt="project-screenshot" width="600">](https://github.com/aaronDev28/Enzo-Chatbot/blob/main/asset_img.png)
+<img src="https://github.com/aaronDev28/Enzo-Chatbot/blob/main/asset_img1.png" alt="project-screenshot" width="600">
 
-  
 ## 💻 Built With:
 
 *   Python
